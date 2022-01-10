@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
+
+
+*{
+    font-family: "poppins";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-toggel{
+    position: absolute;
+    width: 223px;
+    height: 110px;
+    left: 41px;
+    top: 37px;
+}
+
+h1.text-mid{
+    position: absolute;
+    width: 397px;
+    height: 58px;
+    left: 521px;
+    top: 259px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;  
+    color: #000000;
+}
+
+.label-1{
+    position: absolute;
+    width: 112px;
+    height: 28px;
+    left: 401px;
+    top: 353px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;  
+    color: #000000;
+}
+
+.label-2{
+    position: absolute;
+    width: 112px;
+    height: 28px;
+    left: 401px;
+    top: 487px;  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.input-1{
+    position: absolute;
+    width: 651px;
+    height: 36px;
+    left: 401px;
+    top: 398px;
+}
+
+.input-2{
+    position: absolute;
+    width: 651px;
+    height: 36px;
+    left: 401px;
+    top: 529px;
+}
+.btn-primary{
+    position: absolute;
+    width: 651px;
+    height: 67px;
+    left: 401px;
+    top: 618px;
+    background: #ADFF00;
+    border-radius: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+.btn-1{
+    position: absolute;
+    width: 56px;
+    height: 15px;
+    left: 895px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-2{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    left: 986px;
+    top: 37px;  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;  
+    color: #000000;  
+}
+
+.btn-3{
+    position: absolute;
+    width: 48px;
+    height: 15px;
+    left: 1076px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-4{
+    position: absolute;
+    width: 123px;
+    height: 26px;
+    left: 1154px;
+    top: 37px; 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}

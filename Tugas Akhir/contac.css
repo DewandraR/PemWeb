@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
+
+*{
+    font-family: "poppins";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-toggel{
+    position: absolute;
+    width: 223px;
+    height: 110px;
+    left: 41px;
+    top: 37px;
+}
+.btn-1{
+    position: absolute;
+    width: 56px;
+    height: 15px;
+    left: 895px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-2{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    left: 986px;
+    top: 37px;  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;  
+    color: #000000;  
+}
+
+.btn-3{
+    position: absolute;
+    width: 48px;
+    height: 15px;
+    left: 1076px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-4{
+    position: absolute;
+    width: 123px;
+    height: 26px;
+    left: 1154px;
+    top: 37px; 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.foto{
+    position: absolute;
+    width: 406px;
+    height: 426px;
+    left: 517px;
+    top: 159px;
+}
+
+h1.hero-heading{
+    position: absolute;
+    width: 744px;
+    height: 63px;
+    left: 438px;
+    top: 607px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 49px;
+    color: #000000;
+}
+
+h2.text-mid{
+    position: absolute;
+    width: 232px;
+    height: 41px;
+    left: 630px;
+    top: 670px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    color: #000000;
+}
+
+.logo-1{
+    position: absolute;
+    width: 124px;
+    height: 120px;
+    left: 426px;
+    top: 737px;
+}
+.logo-2{
+    position: absolute;
+    width: 93px;
+    height: 124px;
+    left: 600px;
+    top: 737px;    
+}
+
+.logo-3{
+    position: absolute;
+    width: 126px;
+    height: 124px;
+    left: 743px;
+    top: 737px;
+}
+
+.logo-4{
+    position: absolute;
+    width: 115px;
+    height: 120px;
+    left: 919px;
+    top: 737px;
+}

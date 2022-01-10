@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
+
+
+*{
+    font-family: "poppins";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-toggel{
+    position: absolute;
+    width: 223px;
+    height: 110px;
+    left: 41px;
+    top: 37px;
+}
+
+.btn-1{
+    position: absolute;
+    width: 56px;
+    height: 15px;
+    left: 895px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-2{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    left: 986px;
+    top: 37px;  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;  
+    color: #000000;  
+}
+
+.btn-3{
+    position: absolute;
+    width: 48px;
+    height: 15px;
+    left: 1076px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-4{
+    position: absolute;
+    width: 123px;
+    height: 26px;
+    left: 1154px;
+    top: 37px; 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.hero-heading{
+    position: absolute;
+    width: 1002px;
+    height: 72px;
+    left: 263px;
+    top: 388px;   
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+    
+}
+
+.btn-primary{
+    position: absolute;
+    width: 322px;
+    height: 130px;
+    left: 306px;
+    top: 474px;
+    background-color: #96E8FA;
+    border-radius: 47px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color: #5171E0;
+}
+
+.btn-secondary{
+    position: absolute;
+    width: 322px;
+    height: 130px;
+    left: 832px;
+    top: 474px;
+    background: #5171E0;
+    border-radius: 47px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color: #96E8FA;
+}

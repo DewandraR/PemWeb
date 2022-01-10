@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
+
+
+*{
+    font-family: "poppins";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-toggel{
+    position: absolute;
+    width: 223px;
+    height: 110px;
+    left: 41px;
+    top: 37px;
+}
+
+h3.hero-heading{
+    position: absolute;
+    width: 248px;
+    height: 37px;
+    left: 164px;
+    top: 324px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #0C15E4;
+}
+
+h1.text-mid{
+    position: absolute;
+    width: 513px;
+    height: 159px;
+    left: 164px;
+    top: 371px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 72px;
+    color: #3A1092;
+}
+
+p.p-class{
+    position: absolute;
+    width: 243px;
+    height: 27px;
+    left: 164px;
+    top: 530px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #622FF2;
+}
+
+button.btn-primary{
+    position: absolute;
+    width: 152px;
+    height: 64px;
+    left: 164px;
+    top: 601px;
+    background-color: #893BED;
+    border-radius: 15px;
+    color: #fff;
+}
+
+button.btn-secondary{
+    position: absolute;
+    width: 152px;
+    height: 64px;
+    left: 356px;
+    top: 601px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    color: #893BED;
+}
+
+.btn-1{
+    position: absolute;
+    width: 56px;
+    height: 15px;
+    left: 895px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-2{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    left: 986px;
+    top: 37px;  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;  
+    color: #000000;  
+}
+
+.btn-3{
+    position: absolute;
+    width: 48px;
+    height: 15px;
+    left: 1076px;
+    top: 37px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.btn-4{
+    position: absolute;
+    width: 123px;
+    height: 26px;
+    left: 1154px;
+    top: 37px; 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.foto{
+    position: absolute;
+    width: 722.4px;
+    height: 509.65px;
+    left: calc(50% - 722.4px/2 + 358.8px);
+    top: calc(50% - 509.65px/2 + 65.94px);
+    transform: rotate(0.07deg);
+}
