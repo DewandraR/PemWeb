@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(243.68deg, rgba(220, 189, 110, 0.896171) -1.49%, #B2B520 -1.49%, rgba(42, 123, 182, 0.937613) -1.48%, rgba(43, 123, 182, 0.932432) -1.47%, rgba(41, 122, 181, 0.943451) -1.46%, rgba(214, 94, 224, 0.953153) -1.45%, rgba(88, 145, 186, 0.958333) 38.69%, rgba(231, 130, 37, 0.922072) 74.63%, rgba(226, 89, 89, 0.83) 99.99%, rgba(196, 196, 196, 0) 100%);
+    overflow-x: hidden;
+}
+
+.utama div{
+    text-align: center;
+    padding: 40px;
+}
+
+.utama div img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;
+    object-fit: cover;
+    object-position: 0 -8px;
+}
+
+.utama{
+    text-align: center;
+}
+
+.tengah{
+    padding: 30px;
+}
+
+.tengah h1{
+    color: rgb(29, 29, 29);
+    font-size: 35px;
+}
+
+.tengah h2{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 400px;
+}
+
+.tengah h2 , .tengah p{
+    font-weight: lighter;
+    letter-spacing: 1px;
+    width: 70%;
+    margin: 10px auto 0 auto;
+}
+
+div.SM i{
+    padding: 0 10px;
+    transition: 0.4s;
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    margin: 20px;
+    text-align: center;
+    line-height: 95px;
+    box-shadow: 1px 4px 2px 2px #d2d2d3;
+}
+
+a i {
+    transition: all 0.3s linear;
+}
+
+a:hover i {
+    transform: scale(1.4);
+}

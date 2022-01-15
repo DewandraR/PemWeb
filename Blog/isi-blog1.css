@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(243.68deg, #B2B520 -1.49%, rgba(42, 123, 182, 0.937613) -1.48%, rgba(43, 123, 182, 0.932432) -1.47%, rgba(41, 122, 181, 0.943451) -1.46%, #00FFFF 0.01%, rgba(37, 231, 172, 0.922072) 55.28%, rgba(166, 247, 103, 0.863703) 85.31%, rgba(182, 226, 89, 0.83) 99.99%);
+    overflow-x: hidden;
+}
+
+.tengah{
+    padding: 30px;
+    text-align: center;
+}
+
+.tengah h1{
+    color: rgb(29, 29, 29);
+    font-size: 35px;
+}
+
+.tengah h2{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 400px;
+}
+
+.tengah h2 , .tengah p{
+    font-weight: lighter;
+    letter-spacing: 1px;
+    width: 70%;
+    margin: 10px auto 0 auto;
+}
+
+.isi{
+    margin: 30px;
+    margin-bottom: 0;
+    text-align: justify;
+}
+
+.maju{
+    text-align: center;
+    margin-left: 30px;
+}
+
+.isi h2{
+    margin-top: 25px;
+}

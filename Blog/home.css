@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(243.54deg, #2076B5 -1.48%, rgba(128, 74, 241, 0.896171) -1.48%, rgba(42, 123, 182, 0.937613) -1.47%, rgba(43, 123, 182, 0.932432) -1.46%, rgba(41, 122, 181, 0.943451) -1.45%, rgba(82, 0, 255, 0.953153) -1.44%, rgba(70, 97, 193, 0.958333) 13.56%, rgba(147, 255, 229, 0.922072) 93.41%, rgba(95, 255, 197, 0) 99.58%);
+    overflow-x: hidden;
+}
+
+.utama{
+    text-align: center;
+    align-items: center;
+}
+
+.tengah{
+    padding: 30px;
+}
+
+.tengah h2{
+    font-size: 35px;
+}
+
+.tengah h4{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 400px;
+}
+
+.tengah h4 , .tengah p{
+    font-weight: lighter;
+    letter-spacing: 1px;
+    width: 70%;
+    margin: 10px auto 0 auto;
+}
+
+.kotak{
+    background-color: #383838;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    margin: 20px;
+}
+
+.kotak a{
+    color: rgb(255, 0, 0)
+}

@@ -1,0 +1,100 @@
+body{
+    background: linear-gradient(243.68deg, #F3C7C7 -1.49%, rgba(255, 132, 132, 0.937613) 7.5%, #FA718A 20.18%, rgba(252, 91, 178, 0.943451) 40.8%, rgba(250, 134, 203, 0.922072) 55.28%, rgba(197, 162, 255, 0.932432) 73.57%, rgba(151, 168, 231, 0.863703) 85.31%, rgba(190, 174, 255, 0.83) 99.99%);
+    overflow-x: hidden;
+}
+
+
+.utama{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    min-height: 100vh;
+}
+.konten a{
+    color: rgb(255, 0, 0);
+}
+.ut{
+    position: relative;
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-rows: minmax(100px, auto);
+    margin: 40px;
+    grid-auto-flow: dense;
+    grid-gap: 10px;
+}
+
+.ut .box{
+    background-color: rgb(65, 62, 62);
+    padding: 20px;
+    display: grid;
+    font-size: 20px;
+    place-items: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
+
+.ut .box:hover{
+    background: #455fd1;
+    transform: scale(1.1);
+    transition: all 0.3s linear;
+}
+
+.ut .box img{
+    position: relative;
+    max-width: 100px;
+    margin-bottom: 10px;
+}
+
+.ut .box:nth-child(1){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.ut .box:nth-child(2){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.ut .box:nth-child(3){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.ut .box:nth-child(4){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.ut .box:nth-child(5){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.ut .box:nth-child(6){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.ut .box:nth-child(7){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+.ut .box:nth-child(8){
+    grid-column: span 3;
+    grid-row: span 1;
+}
+
+@media(max-width: 991px){
+    .ut{
+        grid-template-columns: repeat(auto-fill, minmax(50%, 1fr));
+        grid-template-rows: minmax(auto auto);  
+    }
+
+    .ut .box{
+        grid-column: unset !important;
+        grid-row: unset !important;
+    }
+}
